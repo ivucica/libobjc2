@@ -3,3 +3,5 @@
 [b|B]uild
 Debug
 Release
+/bazel-*
+/MODULE.bazel.lock
